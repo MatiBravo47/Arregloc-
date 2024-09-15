@@ -11,6 +11,8 @@ namespace Arregloc_
         static void Main(string[] args)
         {
 
+            //Ejercicios simples 
+
 
         }
     }
